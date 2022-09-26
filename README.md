@@ -1,4 +1,4 @@
-# Decision-Trees_Predicting_Eye_Color
+#Project-Decision-Trees_Predicting_Eye_Color
 Predicting Eye Color Using Decision Tree Model
 
 This project aims to use Decision Trees to analysis if there is a correspondence between eye color and other traits.
